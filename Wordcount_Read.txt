@@ -1,0 +1,6 @@
+Word count is the sample code to run the word count against any sample file .
+
+
+Run the command in Shell
+
+"spark-submit /home/usr/wordcount.py /user/cloudera/spark/files/wordcount_file.txt"
