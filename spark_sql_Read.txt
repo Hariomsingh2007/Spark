@@ -1,4 +1,0 @@
-This is py file which will be used to run the spark sql against any file in HDFS.
-
-
-"spark-submit spark_sql.py"
